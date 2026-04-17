@@ -1,0 +1,51 @@
+id_empleado,nombre,departamento,cargo,fecha_ingreso,fecha_salida,motivo_salida,salario,edad,genero,region,evaluacion_desempeno,horas_extra_mes,satisfaccion
+E001,Ana Torres,Ventas,Ejecutivo Comercial,2020-03-15,2023-08-30,Renuncia voluntaria,850000,28,F,Norte,3,12,2
+E002,Carlos Mendez,TI,Desarrollador,2019-06-01,,Activo,1200000,32,M,Centro,5,8,5
+E003,Maria Rojas,RRHH,Analista RRHH,2021-01-10,,Activo,780000,27,F,Centro,4,5,4
+E004,Pedro Soto,Finanzas,Contador,2018-04-20,2023-03-15,Despido,920000,35,M,Sur,2,20,1
+E005,Laura Diaz,Ventas,Ejecutivo Comercial,2022-02-01,2023-11-30,Renuncia voluntaria,850000,25,F,Norte,3,15,2
+E006,Jorge Herrera,Operaciones,Supervisor,2017-09-10,,Activo,1050000,40,M,Sur,4,10,4
+E007,Camila Vera,TI,Analista Datos,2020-07-15,,Activo,1100000,29,F,Centro,5,6,5
+E008,Diego Munoz,Finanzas,Analista Financiero,2019-11-20,,Activo,950000,33,M,Norte,4,8,4
+E009,Valentina Pino,Ventas,Ejecutivo Comercial,2021-05-03,2022-09-15,Renuncia voluntaria,850000,24,F,Este,2,18,1
+E010,Andres Lagos,Operaciones,Operario,2020-01-06,,Activo,650000,38,M,Sur,3,14,3
+E011,Francisca Mora,RRHH,Jefe RRHH,2016-08-22,,Activo,1400000,42,F,Centro,5,4,5
+E012,Sebastian Castro,TI,Desarrollador,2021-03-15,2023-06-30,Otra oferta,1200000,28,M,Centro,4,10,3
+E013,Isabel Fuentes,Ventas,Gerente Ventas,2015-05-10,,Activo,2100000,45,F,Norte,5,6,5
+E014,Matias Araya,Finanzas,Contador,2022-07-01,2023-12-15,Renuncia voluntaria,920000,26,M,Sur,3,22,2
+E015,Daniela Riquelme,Operaciones,Supervisor,2019-02-14,2023-05-31,Despido,1050000,36,F,Este,1,25,1
+E016,Felipe Contreras,TI,Analista Datos,2020-10-01,,Activo,1100000,31,M,Centro,4,7,4
+E017,Catalina Vega,RRHH,Analista RRHH,2021-08-16,,Activo,780000,26,F,Centro,4,5,4
+E018,Rodrigo Espinoza,Ventas,Ejecutivo Comercial,2018-12-03,2022-07-31,Otra oferta,850000,30,M,Sur,3,16,2
+E019,Javiera Ortiz,Finanzas,Analista Financiero,2020-04-20,,Activo,950000,29,F,Norte,5,6,5
+E020,Nicolas Alvarez,TI,Desarrollador,2017-03-08,,Activo,1250000,36,M,Centro,4,9,4
+E021,Paola Jimenez,Ventas,Ejecutivo Comercial,2022-09-01,2023-10-15,Renuncia voluntaria,850000,23,F,Norte,2,20,1
+E022,Gabriel Silva,Operaciones,Operario,2019-06-17,,Activo,650000,35,M,Sur,3,13,3
+E023,Marcela Reyes,RRHH,Analista RRHH,2020-11-23,,Activo,780000,30,F,Centro,5,4,5
+E024,Tomas Medina,TI,Desarrollador,2021-01-11,2023-09-30,Otra oferta,1200000,27,M,Centro,4,11,3
+E025,Alejandra Rios,Finanzas,Contador,2016-07-04,,Activo,980000,40,F,Norte,5,5,5
+E026,Bastian Navarro,Ventas,Ejecutivo Comercial,2021-11-08,2023-07-31,Renuncia voluntaria,850000,25,M,Este,2,17,2
+E027,Sofia Guerrero,Operaciones,Supervisor,2018-03-19,,Activo,1050000,38,F,Sur,4,9,4
+E028,Emilio Carrasco,RRHH,Analista RRHH,2022-04-25,,Activo,780000,24,M,Centro,3,6,3
+E029,Constanza Flores,TI,Analista Datos,2019-09-30,,Activo,1100000,32,F,Centro,5,5,5
+E030,Ignacio Sepulveda,Ventas,Gerente Ventas,2014-02-17,,Activo,2100000,48,M,Sur,5,4,5
+E031,Renata Molina,Finanzas,Analista Financiero,2021-06-14,2023-04-30,Despido,950000,27,F,Norte,2,24,1
+E032,Martin Ibanez,Operaciones,Operario,2020-08-03,,Activo,650000,33,M,Este,3,15,3
+E033,Valentina Cid,TI,Desarrollador,2018-10-29,,Activo,1250000,35,F,Centro,4,8,4
+E034,Hugo Vargas,Ventas,Ejecutivo Comercial,2022-01-17,2023-05-15,Renuncia voluntaria,850000,28,M,Norte,2,19,1
+E035,Lorena Pizarro,RRHH,Jefe RRHH,2015-11-09,,Activo,1400000,44,F,Centro,5,3,5
+E036,Cristobal Donoso,Finanzas,Contador,2020-05-25,,Activo,920000,30,M,Sur,4,7,4
+E037,Amanda Leiva,TI,Analista Datos,2021-09-13,,Activo,1100000,26,F,Centro,4,6,4
+E038,Esteban Poblete,Ventas,Ejecutivo Comercial,2019-07-22,2022-11-30,Otra oferta,850000,31,M,Sur,3,14,2
+E039,Pilar Mardones,Operaciones,Supervisor,2017-12-04,,Activo,1050000,41,F,Norte,4,10,4
+E040,Alvaro Tapia,RRHH,Analista RRHH,2022-10-31,,Activo,780000,23,M,Centro,3,7,3
+E041,Josefina Bravo,TI,Desarrollador,2020-02-18,2023-01-31,Otra oferta,1200000,28,F,Centro,4,9,3
+E042,Samuel Rojas,Finanzas,Analista Financiero,2019-04-08,,Activo,950000,34,M,Norte,4,8,4
+E043,Antonia Caceres,Ventas,Ejecutivo Comercial,2021-12-06,,Activo,850000,25,F,Este,4,10,4
+E044,Maximiliano Ruiz,Operaciones,Operario,2018-07-16,2023-02-28,Renuncia voluntaria,650000,36,M,Sur,2,22,2
+E045,Trinidad Herrera,RRHH,Analista RRHH,2020-03-24,,Activo,780000,29,F,Centro,5,4,5
+E046,Vicente Morales,TI,Desarrollador,2016-11-14,,Activo,1300000,38,M,Centro,5,7,5
+E047,Fernanda Acuna,Ventas,Ejecutivo Comercial,2022-06-20,2023-09-30,Renuncia voluntaria,850000,24,F,Norte,2,21,1
+E048,Cristina Valenzuela,Finanzas,Contador,2018-01-29,,Activo,940000,39,F,Sur,5,5,5
+E049,Pablo Aravena,Operaciones,Supervisor,2019-10-07,,Activo,1050000,37,M,Este,4,9,4
+E050,Lucia Pena,TI,Analista Datos,2021-04-19,,Activo,1100000,27,F,Centro,5,5,5
